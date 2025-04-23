@@ -1,6 +1,6 @@
 
 
-# 📊 𝗦𝗤𝗟-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 **Portfolio**
+# 📊 𝗦𝗤𝗟-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 
 Welcome to my **SQL-based Data Analytics Portfolio Project**!  
 This project showcases my ability to transform raw data into meaningful business insights using SQL.
