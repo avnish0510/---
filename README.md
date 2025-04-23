@@ -1,5 +1,3 @@
-
-
 # 📊 𝗦𝗤𝗟-𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗣𝗿𝗼𝗷𝗲𝗰𝘁
 
 Welcome to my **SQL-based Data Analytics Portfolio Project**!  
@@ -24,7 +22,7 @@ This project showcases my ability to transform raw data into meaningful business
 ## 📂 Data & Schema Overview
 
 **Datasets**:
-- `dim_customers.csv` – Customer demographics  
+- `dim_customers.csv` – Customer demographics
 - `dim_products.csv` – Product metadata  
 - `fact_sales.csv` – Sales transactions  
 
