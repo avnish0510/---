@@ -95,7 +95,7 @@ This project showcases my ability to transform raw data into meaningful business
 ## 🚀 Let’s Connect
 
 📬 Open to roles in: **Business Intelligence, Data Analytics, SQL Reporting**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/yourusername)  
-📂 [Project Repository](https://github.com/yourusername/sql-analytics-project)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/avnish0510/)  
+📂 [Project Repository](https://github.com/avnish0510/Retail_Sales_Analysis_SQL_Project)
 
 ---
